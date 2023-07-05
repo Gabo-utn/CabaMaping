@@ -1,8 +1,4 @@
-
-
 # Mapa  de la ciudad autonoma de Buenos Aires
-
-.
 
 El proyecto comprende dos aplicaciones construidas siguiendo el patrón de diseño MVC (Modelo-Vista-Controlador). Una de ellas es una aplicación de escritorio que actúa como servidor, mientras que la otra es una aplicación cliente que permite realizar consultas al servidor. La meta del proyecto es mostrar al usuario ubicaciones geográficas de interés dentro de la Ciudad Autónoma de Buenos Aires. Para alcanzar este objetivo, se utilizan bases de datos proporcionadas de manera pública por el Gobierno de la Ciudad de Buenos Aires. Las ubicaciones se muestran en una interfaz gráfica que incluye un mapa de la ciudad, junto con el nombre y la dirección de los lugares de interés seleccionados.
 
