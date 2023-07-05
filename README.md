@@ -1,10 +1,10 @@
-<img src='./client/src/app.png' alt="Drawing" style="width: 50px;">
 
-# Mapa Interactivo de CABA
 
-Proyecto final realizado para la "Diplomatura en Python" de la [UTN](https://utn.edu.ar/es/).
+# Mapa  de la ciudad autonoma de Buenos Aires
 
-El proyecto consta de dos aplicaciones realizadas segun el modelo MVC, por un lado tenemos una aplicacion de escritorio que cumple el rol de servidor y por el otro lado tenemos otra aplicacion que juega el papel de cliente con el cual podemos realizar consultas al servidor, el objetivo del proyecto es presentar al cliente ubicaciones geograficas de interes dentro de la Ciudad Autonoma de Buenos Aires, para esto se hace uso de [bases de datos](https://data.buenosaires.gob.ar/dataset/) que brinda publicamente el [Gobierno de la Ciudad de Buenos Aires](https://www.buenosaires.gob.ar), la presentacion de las ubicaciones se realizan sobre una interfaz grafica que cuenta con el mapa de dicha ciudad, brindando nombre y direccion del lugar buscado.
+.
+
+El proyecto comprende dos aplicaciones construidas siguiendo el patrón de diseño MVC (Modelo-Vista-Controlador). Una de ellas es una aplicación de escritorio que actúa como servidor, mientras que la otra es una aplicación cliente que permite realizar consultas al servidor. La meta del proyecto es mostrar al usuario ubicaciones geográficas de interés dentro de la Ciudad Autónoma de Buenos Aires. Para alcanzar este objetivo, se utilizan bases de datos proporcionadas de manera pública por el Gobierno de la Ciudad de Buenos Aires. Las ubicaciones se muestran en una interfaz gráfica que incluye un mapa de la ciudad, junto con el nombre y la dirección de los lugares de interés seleccionados.
 
 ---
 
@@ -72,10 +72,3 @@ Una vez que tenemos las coordenadas las pegamos en el CMD y se nos habilitara un
 <img src='./client/src/preview3.jpg' alt="Drawing" style="width: 800px;">
 
 ---
-
-## Autores ✒️
-
-* **María Angelica Inés Violi**
-* **Alexander Daniel Ríos** - [A.R](https://github.com/aletbm)
-* **Sasha Emanuel Franco** - [Olimpus](https://github.com/Armithael)
-* **Tamara Ayelen Merchan** - [tmerchan](https://github.com/tmerchan)
